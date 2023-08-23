@@ -1,0 +1,10 @@
+{
+    "program": "eclinical.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBqXE2ZstGGEQRYvtgbH5VNY5XcrTzEpgrr5TFug1SkpP",
+        "address": "aleo1x6fhc3yycnppey0n59456djgjddvjqj67tnwagz7em3j7yj4mqpsl7s539"
+    },
+    "license": "MIT"
+}
